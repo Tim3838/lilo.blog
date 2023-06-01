@@ -3,6 +3,7 @@ title = "LSD - Droge oder Therapiestoff"
 date = "2023-06-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 +++
 # LSD – Droge oder Therapiestoff?
 
