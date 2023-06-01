@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 +++
-# LSD – Droge oder Therapiestoff?
+
 
 *LSD - Rauschmittel oder Medizin? Diese Frage haben wir uns für unsere Reportage gestellt. In unserem Interview mit Herrn Roder, Apotheker und Mitarbeiter des Pharmazeutischen Kontrolllabors in Bern, haben wir viele wichtige Fakten, aber auch Geschichten von Betroffenen erfahren.*
 
@@ -16,8 +16,6 @@ Aufgrund der Tatsache, dass schon sehr geringe Mengen LSD ausreichen, um high zu
 Wie wirkt LSD? - LSD (Lysergsäurediethylamid) bindet an den Serotoninrezeptor, ist aber nicht der einzige Rezeptor, an den LSD bindet, es bindet unter anderem auch an Dopaminrezeptoren. Die Plasmahalbwertszeit beträgt etwa 3 Stunden, ein Rausch dauert jedoch zwischen 8 und 12 Stunden an, Nachwirkungen können jedoch noch einige Tage danach auftreten.
 
 ![Strukturformel von LSD](https://isbaerner.netlify.app/img/strukturformel.png)
-
-
 
 Die Wirkungen von LSD sind vielfältig, meist handelt es sich jedoch um Stressreaktionen, d.h. der Blutdruck steigt, der Puls beschleunigt sich und die Pupillen weiten sich, um nur einige zu nennen. Das sind aber nicht alle möglichen Reaktionen, es kann auch zu Übelkeit oder Krämpfen kommen. Die vermutlich tödliche Dosis dürfte jedoch weit von der wirksamen Dosis entfernt sein, es sind auch keine Todesfälle bekannt, die direkt auf LSD zurückzuführen sind, was unter anderem daran liegt, dass LSD in seiner verdaulichen Form sehr stark ist. Es gibt kaum etwas, das in so kleinen Mengen eine so starke Wirkung hat. Die Potenz kommt aber nicht von ungefähr, Albert Hoffmann hat viele sehr ähnliche Substanzen getestet. Aber außer LSD-25 waren nur wenige Varianten wirklich wirksam. LSD-25 ist keine besondere Form, es ist die Form von LSD, die wahrscheinlich hergestellt und verkauft wird. Es gibt auch andere Derivate, die erhältlich sind, aber diese sind nicht wirklich von Bedeutung, unter anderem weil sie viel weniger pychoaktiv sind. Eine der Hauptanwendungen von LSD war die Behandlung von PTSD. Diese Anwendung verschwindet jedoch immer mehr, da MDMA besser geeignet ist, aber es gibt kaum einen Grund, warum LSD nicht für diesen Zweck verwendet werden sollte.
 
