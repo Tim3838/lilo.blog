@@ -7,7 +7,7 @@ tags = ["Deutsch", "Reportage"]
 +++
 # LSD – Droge oder Therapiestoff?
 
-LSD ein Rauschmittel oder doch nur Medizin? Dies ist die Frage, welche wir uns bei unserer Reportage gestellt haben. In unserem Interview mit M. Roder, einem Apotheker und Angestellten beim Pharmazeutischen Kontrolllabor in Bern, haben wir viele wichtige Fakten aber auch Geschichten von Betroffenen erfahren
+*LSD ein Rauschmittel oder doch nur Medizin? Dies ist die Frage, welche wir uns bei unserer Reportage gestellt haben. In unserem Interview mit M. Roder, einem Apotheker und Angestellten beim Pharmazeutischen Kontrolllabor in Bern, haben wir viele wichtige Fakten aber auch Geschichten von Betroffenen erfahren*
 
 Albert Hoffman entdeckte «LSD» 1938, damals stellte er die berühmteste Form, LSD-25 her, allerdings hatte er damals noch kein Versuch damit gemacht, dies kam erst fünf Jahre später. Im Frühjahr 1943 stellte Albert Hoffman noch einmal LSD-25 her. Er hatte aus Versehen einmal vermutlich etwas davon auf den Finger bekommen. Da er danach in einen rauschartigen Zustand verfiel und er es sich nicht anderes erklären konnte, hatte er sich zum Selbstversuch entschlossen. Dieser wurde mit 0.25 mg durchgeführt, was enorm wenig ist, im Verglich zu allem anderen damals bekannten. Hoffman hatte zuerst ein sehr dämonisches Bild von LSD, er durchlebte zuerst nicht wirklich etwas Schönes, bevor es dazu kam, dass er es geniessen konnte. Deshalb war er auch zuerst erstaunt, dass es Leute als Rauschmittel benutzten. Er hatte damals ausser stark geweiteten Pupillen, keine äusserlichen Anomalien. Was auch nicht besonders erstaunt, wenn man die Wirkungen sich einmal genauer anschaut.
 
@@ -15,9 +15,9 @@ Aufgrund von dem, dass es nur sehr geringe Mengen LSD braucht, um high zu werden
 
 Wie funktioniert LSD? – LSD (Lysergsäurediethylamid) bindet an den Rezeptor Serotonin, jedoch ist dieser nicht der einzige, mit welchem LSD eine Bindung eingeht, LSD bindet unteranderem auch an Dopaminrezeptoren und andere. Die Plasmahalbwertszeit beträgt etwa 3 Stunden, jedoch geht so ein Rausch etwas zwischen 8 und 12 Stunden, jedoch kann es Nachwirkungen auch noch während einiger Tage danach geben.
 
-![Strukturformel von LSD](https://isbaerner.netlify.app/img/strukturformel.png "title")
+![Strukturformel von LSD](https://isbaerner.netlify.app/img/strukturformel.png)
 
-Strukturformel von LSD
+
 
 Die Wirkungen von LSD sind verschieden, jedoch sind die meisten davon Stressreaktionen, das heisst dass der Blutdruck steigt, der Puls steigt und die Pupillen erweitern sich, um nur einige zu nennen. Diese sind jedoch nicht alle möglichen Reaktionen, es kann auch zu Übelkeit kommen oder zu Krämpfen. Die vermutlich tödliche Dosis dürfte jedoch sehr weit von der Wirkungsdosis entfernt sein, es ist auch kein Todesfall bekannt, welcher direkt von LSD verursacht ist, dies kommt unteranderem davon, dass LSD in der bekömmlichen Form sehr potent ist. Es gibt kaum etwas, was in so kleinen Mengen eine so starke Wirkung hat. Die Stärke kommt jedoch nicht von ungefähr, Albert Hoffmann hat viele sehr ähnliche Substanzen getestet. Jedoch waren abgesehen von LSD-25 kaum Variationen wirklich wirkungsvoll. LSD-25 ist nicht eine spezielle Form, es ist die Form von LSD die vermutlich produziert und verkauft wird. Es gibt zwar auch andere Derivate welche erhältlich sind, jedoch sind diese nicht wirklich wichtig, auch gerade deshalb, weil diese deutlich weniger pychoativ sind. Einer der Haupteinsatzzwecke von LSD war die Behandlung von PTBS. Dieser Einsatzzweck verschwindet allerdings immer mehr, da MDMA besser geeignet ist, es spricht jedoch kaum etwas dagegen LSD dafür zu brauchen.
 
